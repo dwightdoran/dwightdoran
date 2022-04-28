@@ -1,6 +1,8 @@
-<img src="dwightdoran/dwightdoran/banner.png"/>
+<img src="/banner.png" alt="banner" width="500px"/>
 
-### Hi there 👋
+# Hi there 👋
+<br/>
+## I'm Dwight, husband, father, developer and problem solver
 
 <!--
 **dwightdoran/dwightdoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
