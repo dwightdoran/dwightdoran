@@ -1,5 +1,3 @@
-<img src="/banner.png" alt="banner" width="500px"/>
-
 # Hi there 👋
 <br/>
 ## I'm Dwight, husband, father, developer and problem solver
