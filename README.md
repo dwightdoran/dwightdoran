@@ -1,8 +1,11 @@
-## I'm Dwight...husband, father, developer and problem solver
+# I'm Dwight...husband, father, developer and problem solver
 
-I am a Software Engineer and military veteran...
-- I love working on teams and collaborating to create beautiful and intuitive user experiences and interfaces and creating scalable solutions for applications. 
-- You can find me behind my computer :computer:, playing soccer with my kids :soccer: or on the lake fishing out of my kayak :fishing_pole_and_fish:
+I am a Software Engineer who...
+- loves working on teams and collaborating to create beautiful and intuitive user experiences and interfaces 
+- enjoys creating scalable solutions for applications
+- finds joy in learning :computer:, 
+- plays soccer with my kids :soccer: 
+- is usually on the lake fishing when I can :fishing_pole_and_fish:
 
 ### Tools that I have worked with
 
@@ -17,8 +20,8 @@ I am a Software Engineer and military veteran...
 <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325??style=for-the-badge&logo=jest&logoColor=black" />
 <p/>
 
-
-<a href=" https://www.linkedin.com/in/dwightdoran">
+### I'd love to hear from you. Let's grab a virtual coffee and chat. ☕
+<a href="https://www.linkedin.com/in/dwightdoran">
   <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2??style=for-the-badge&logo=linkedin&logoColor=white" />
 <a/>
 
