@@ -18,6 +18,10 @@ I am a Software Engineer and military veteran...
 <p/>
 
 
+<a href=" https://www.linkedin.com/in/dwightdoran">
+  <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2??style=for-the-badge&logo=linkedin&logoColor=white" />
+<a/>
+
 <!--
 **dwightdoran/dwightdoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
