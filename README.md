@@ -1,3 +1,5 @@
+<img src="dwightdoran/dwightdoran/banner.png"/>
+
 ### Hi there 👋
 
 <!--
