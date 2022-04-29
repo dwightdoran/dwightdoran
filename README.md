@@ -4,7 +4,7 @@ I am a Software Engineer who...
 - loves working on teams and collaborating to create beautiful and intuitive user experiences and interfaces 
 - enjoys creating scalable solutions for applications
 - finds joy in learning :computer:, 
-- plays soccer with my kids :soccer: 
+- loves to play soccer with my kids :soccer: 
 - is usually on the lake fishing when I can :fishing_pole_and_fish:
 
 ### Tools that I have worked with
