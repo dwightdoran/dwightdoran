@@ -1,6 +1,7 @@
 # I'm Dwight...husband, father, developer and problem solver
 
 I am a Software Engineer who...
+- is an experienced problem solver
 - loves working on teams and collaborating to create beautiful and intuitive user experiences and interfaces 
 - enjoys creating scalable solutions for applications
 - finds joy in learning :computer:, 
