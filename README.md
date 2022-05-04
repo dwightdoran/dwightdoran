@@ -22,7 +22,7 @@ I am a Software Engineer who...
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E??style=for-the-badge&logo=amazon aws&logoColor=black" />
 <p/>
 
-### I'd love to hear from you. Let's grab a virtual coffee and chat. ☕
+### I'd love to hear from you. Let's connect, grab a virtual coffee and chat. ☕
 <a href="https://www.linkedin.com/in/dwightdoran">
   <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2??style=for-the-badge&logo=linkedin&logoColor=white" />
 <a/>
