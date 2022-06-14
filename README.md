@@ -1,4 +1,4 @@
-# I'm Dwight...husband, father, developer and problem solver
+# I'm Dwight...husband, father, engineer and problem solver
 
 I am a Software Engineer who...
 - is an experienced problem solver
