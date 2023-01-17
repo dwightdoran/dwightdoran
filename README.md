@@ -1,5 +1,3 @@
-
-<!-- <img src="https://media1.giphy.com/media/DSxKEQoQix9hC/giphy.gif?cid=ecf05e4755kyg3tzgsrb9aaojxtr3tu8agzgc0n7jpjezn6m&rid=giphy.gif&ct=g"/> -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&color=gradient&height=150&width=auto&text=Dwight%20Doran&desc=Software%20Engineer&fontAlignY=35&descAlignY=65"/>
 </p>
@@ -51,7 +49,6 @@ hobbies: ["Gaming", "Skateboarding", "Fishing", "Anime"]
 ### I'd love to hear from you, let's connect. 
 
 <a href="https://www.linkedin.com/in/dwightdoran">
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50px" width="auto" /> 
 <a/>
 <br/>
@@ -61,7 +58,8 @@ hobbies: ["Gaming", "Skateboarding", "Fishing", "Anime"]
 [![Dwight's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwightdoran&theme=radical&show_icons=true)](https://github.com/dwightdoran/github-readme-stats)
 
 <p align="center">
-  <img src="https://media.tenor.com/jAhABeTndDYAAAAj/luffy-one.gif"/>
+  <img src="https://media1.giphy.com/media/DSxKEQoQix9hC/giphy.gif?cid=ecf05e4755kyg3tzgsrb9aaojxtr3tu8agzgc0n7jpjezn6m&rid=giphy.gif"/>
+<!--   <img src="https://media.tenor.com/jAhABeTndDYAAAAj/luffy-one.gif"/> -->
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&color=gradient&height=100&section=footer"/>
