@@ -55,8 +55,13 @@ hobbies: ["Gaming", "Skateboarding", "Fishing", "Anime"]
   
 ---
   
-[![Dwight's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwightdoran&theme=radical&show_icons=true)](https://github.com/dwightdoran/github-readme-stats)
-
+<!-- [![Dwight's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwightdoran&theme=radical&show_icons=true)](https://github.com/dwightdoran/github-readme-stats) -->
+<p align="center">
+  <a href="https://github.com/dwightdoran/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=dwightdoran&theme=radical&show_icons=true"/>
+  <a/>
+<p/>
+    
 <p align="center">
   <img src="https://media1.giphy.com/media/DSxKEQoQix9hC/giphy.gif?cid=ecf05e4755kyg3tzgsrb9aaojxtr3tu8agzgc0n7jpjezn6m&rid=giphy.gif"/>
 <!--   <img src="https://media.tenor.com/jAhABeTndDYAAAAj/luffy-one.gif"/> -->
