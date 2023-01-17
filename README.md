@@ -18,7 +18,7 @@ fields_of_interest:
     "Web Development",
     "Machine Learning",
     "Scalability",
-    "DevOps",
+    "DevOps"
   ]
 currently_learning: ["Docker, Jenkins, AWS"]
 2022 Goals: ["Experiment with new frameworks"]
