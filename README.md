@@ -22,7 +22,7 @@ fields_of_interest:
   ]
 currently_learning: ["Docker, Jenkins, AWS"]
 2022 Goals: ["Experiment with new frameworks"]
-hobbies: ["Gaming", "Skateboarding", "Fishing"]
+hobbies: ["Gaming", "Skateboarding", "Fishing", "Anime"]
 ```
 
 ### Tools that I have worked with
