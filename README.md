@@ -31,10 +31,3 @@ I am a Software Engineer who...
 ---
   
 [![Dwight's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwightdoran&theme=onedark&show_icons=true&count_private=true)](https://github.com/dwightdoran/github-readme-stats)
-
-<!--
-**dwightdoran/dwightdoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
