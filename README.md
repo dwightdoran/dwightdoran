@@ -7,7 +7,7 @@
 
 ```yml
 name: Dwight Doran
-located_in: Oklahoma
+located_in: Charleston, SC
 current_job: Full Stack Developer
 company: Sev1Tech
 fields_of_interest:
@@ -20,7 +20,7 @@ fields_of_interest:
   ]
 currently_learning: ["Docker, Jenkins, AWS"]
 2022 Goals: ["Experiment with new frameworks"]
-hobbies: ["Gaming", "Skateboarding", "Fishing", "Anime"]
+hobbies: ["Gaming", "BJJ", "Fishing", "Anime"]
 ```
 
 ### Tools that I have worked with
