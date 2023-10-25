@@ -19,7 +19,7 @@ fields_of_interest:
     "DevOps"
   ]
 currently_learning: ["Docker, Jenkins, AWS"]
-2022 Goals: ["Experiment with new frameworks"]
+2024 Goals: ["Experiment with new frameworks"]
 hobbies: ["Gaming", "BJJ", "Fishing", "Anime"]
 ```
 
