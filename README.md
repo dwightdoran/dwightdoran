@@ -9,7 +9,7 @@
 name: Dwight Doran
 located_in: Charleston, SC
 current_job: Full Stack Developer
-company: Sev1Tech
+company: Alpha Omega Integration
 fields_of_interest:
   [
     "Engineering Management",
