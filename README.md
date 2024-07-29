@@ -18,9 +18,9 @@ fields_of_interest:
     "Scalability",
     "DevOps"
   ]
-currently_learning: ["Docker, Jenkins, AWS"]
+currently_learning: ["Turbo frames"]
 2024 Goals: ["Experiment with new frameworks"]
-hobbies: ["Gaming", "BJJ", "Fishing", "Anime"]
+hobbies: ["Gaming", "BJJ", "Fishing", "Anime", "MTG"]
 ```
 
 ### Tools that I have worked with
