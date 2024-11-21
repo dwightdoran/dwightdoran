@@ -18,7 +18,7 @@ fields_of_interest:
     "Scalability",
     "DevOps"
   ]
-currently_learning: ["Turbo frames"]
+currently_learning: ["AWS"]
 2024 Goals: ["Experiment with new frameworks"]
 hobbies: ["Gaming", "BJJ", "Fishing", "Anime", "MTG"]
 ```
