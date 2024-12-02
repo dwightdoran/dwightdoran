@@ -18,7 +18,7 @@ fields_of_interest:
     "Scalability",
     "DevOps"
   ]
-currently_learning: ["AWS"]
+currently_learning: ["AWS", "Golang"]
 2024 Goals: ["Experiment with new frameworks"]
 hobbies: ["Gaming", "BJJ", "Fishing", "Anime", "MTG"]
 ```
