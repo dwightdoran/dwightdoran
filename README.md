@@ -22,7 +22,7 @@ fields_of_interest:
     "DevOps"
   ]
 currently_learning: ["AWS", "Golang"]
-2024 Goals: ["Experiment with new frameworks"]
+2025 Goals: ["Experiment with new frameworks"]
 hobbies: ["Gaming", "BJJ", "Fishing", "Anime", "MTG"]
 ```
 
