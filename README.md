@@ -1,8 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&color=gradient&height=150&width=auto&text=Dwight%20Doran&desc=Software%20Engineer&fontAlignY=35&descAlignY=65"/>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.tenor.com/jAhABeTndDYAAAAj/luffy-one.gif"/>
+</p> -->
+<p align="center" size="100px">
+  <img src="https://media.giphy.com/media/4YZLJtuq28dgoXBy1D/giphy.gif?cid=790b76111lkm6ckf63enwo5lvk0agwicvj0irbl0tlo0db8z&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 </p>
 
 ```yml
