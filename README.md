@@ -15,14 +15,14 @@ current_job: Full Stack Developer
 company: Alpha Omega Integration
 fields_of_interest:
   [
-    "Engineering Management",
+    "Security",
     "Web Development",
     "Machine Learning",
     "Scalability",
     "DevOps"
   ]
 currently_learning: ["AWS", "Golang"]
-2025 Goals: ["Experiment with new frameworks"]
+2025 Goals: ["Be better than I was yesterday"]
 hobbies: ["Gaming", "BJJ", "Fishing", "Anime", "MTG"]
 ```
 
