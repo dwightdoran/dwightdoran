@@ -12,14 +12,14 @@
 name: Dwight Doran
 located_in: Charleston, SC
 current_job: Full Stack Developer
-company: Alpha Omega Integration
+company: Oddball
 fields_of_interest:
   [
-    "Security",
+    "Application Security",
     "Web Development",
-    "Machine Learning",
+    "LLM's",
     "Scalability",
-    "DevOps"
+    "DevSecOps"
   ]
 currently_learning: ["AWS", "Golang"]
 2025 Goals: ["Be better than I was yesterday"]
